@@ -24,3 +24,21 @@ The live demo shows the full site
    Contact section
  
    Built with HTML so it is easy to open and edit
+
+#Technologies
+
+
+   HTML
+
+   AI-assisted coding (I reviewed and understood the code myself)
+
+#What I Learned
+
+
+   How to structure a webpage with HTML
+   
+   How to organize a project and upload it to GitHub
+   
+   How to read code, change it, and understand what each part does
+   
+   How a README helps other people (and future me) understand a project
