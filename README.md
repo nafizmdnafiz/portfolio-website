@@ -42,3 +42,22 @@ The live demo shows the full site
    How to read code, change it, and understand what each part does
    
    How a README helps other people (and future me) understand a project
+
+#Roadmap
+
+
+   Add a public live version on GitHub Pages
+   
+   Add more projects to this portfolio
+   
+   Learn CSS to improve the design
+   
+   Learn JavaScript for simple interactions
+   
+   Keep uploading new work to GitHub
+
+#Author
+
+   Syed Md. Nafiz
+
+  Beginner web developer. This portfolio is my first public project, and I plan to build and share more.
