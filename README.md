@@ -10,3 +10,16 @@ You can view the live version of this portfolio website here:
 
 [portfolio Website] https://nafizmdnafiz.github.io/portfolio-website/
 The live demo shows the full site
+
+#Features
+
+
+   Clean personal portfolio layout
+   
+   About section
+ 
+   Projects section
+ 
+   Contact section
+ 
+   Built with HTML so it is easy to open and edit
